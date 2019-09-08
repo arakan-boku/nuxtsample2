@@ -1,0 +1,1 @@
+# nuxtsample2
